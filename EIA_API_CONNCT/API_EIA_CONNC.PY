@@ -71,7 +71,7 @@ def combining_data_df(final_data):
         electric_sales['Date'] = pd.to_datetime(electric_sales[['Year','Month','Day']])
         electric_sales.set_index('Date',drop=True,inplace=True)
         electric_sales.sort_index(inplace=True)
-        electric_sales = electric_sales[startDate:endDate]
+        electric_sales = electric_sales[startDate:]
         electric_sales = electric_sales.iloc[:,:50]
         return electric_sales
 
