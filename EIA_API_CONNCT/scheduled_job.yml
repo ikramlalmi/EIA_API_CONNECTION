@@ -1,0 +1,4 @@
+cron:
+- description: "monthly data refresh"
+  url: /Users/MacBook/Desktop/EIA_API_CONNCT/API_EIA_CONNC.PY
+  schedule: every month
