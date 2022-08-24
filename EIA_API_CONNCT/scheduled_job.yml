@@ -1,4 +1,4 @@
 cron:
-- description: "monthly data refresh"
+- description: monthly data refresh
   url: EIA_API_CONNCT/API_EIA_CONNC.PY
   schedule: every month
