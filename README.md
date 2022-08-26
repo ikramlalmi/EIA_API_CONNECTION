@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikramlalmi
-- 👀 I’m interested in learning more about data science
+- 👀 I’m interested in learning more about Data Science
 - 🌱 I’m currently learning Python, R, SQL
-- 💞️ I’m looking to collaborate on all types of projects
+- I’m looking to collaborate on all types of projects
 - 📫 How to reach me email me: ikramlalmi97@gmail.com
 
 <!---
